@@ -1,2 +1,2 @@
 # gitybex.github.io
-portfolio
+Java and Full Stack Developer
